@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/music-visualizer/static/css/main.3f2cef84.css",
-    "main.js": "/music-visualizer/static/js/main.cbfd2967.js",
+    "main.css": "/music-visualizer/static/css/main.791fdca2.css",
+    "main.js": "/music-visualizer/static/js/main.7eb60a76.js",
     "static/js/488.cd8a8854.chunk.js": "/music-visualizer/static/js/488.cd8a8854.chunk.js",
     "static/media/elseq 1.jpg": "/music-visualizer/static/media/elseq 1.8d8f94c35981a0bef02b.jpg",
     "static/media/exai.jpg": "/music-visualizer/static/media/exai.b78e2169a409f479accb.jpg",
     "index.html": "/music-visualizer/index.html",
-    "main.3f2cef84.css.map": "/music-visualizer/static/css/main.3f2cef84.css.map",
-    "main.cbfd2967.js.map": "/music-visualizer/static/js/main.cbfd2967.js.map",
+    "main.791fdca2.css.map": "/music-visualizer/static/css/main.791fdca2.css.map",
+    "main.7eb60a76.js.map": "/music-visualizer/static/js/main.7eb60a76.js.map",
     "488.cd8a8854.chunk.js.map": "/music-visualizer/static/js/488.cd8a8854.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f2cef84.css",
-    "static/js/main.cbfd2967.js"
+    "static/css/main.791fdca2.css",
+    "static/js/main.7eb60a76.js"
   ]
 }
